@@ -142,6 +142,8 @@
       - Dale Carnegie (How to win friends and influence people)
       - Jordan Peterson (Take responsibility in life and look for fulfillment)
       - Sam Harris
+    - Cycling
+    - Reading (J.R.R. Tolkein, Harry Potter series)
 
 [Me](Architecture.md)
 
