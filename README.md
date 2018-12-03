@@ -1,11 +1,11 @@
 ## Portfolio Highlights
 
 # Software Development Architect
-    - Passionate Software Developer / Architect Craftsman
-    - High energy and an avid learner always looking for best practices
-    - Extremely Hard working
+    - Highly Passionate Software Architect/Development Craftsman
+    - High energy avid learner always in the pursuit of learning and creating best practices
+    - Extremely hard working and committed to coming up with plugable solutions that follow SOLID principles
     - Fully aware that while I know a lot there is always much more to learn and improve upon
-    - Always stand up for the team as a whole and believe that the team dynamic is of utmost importance
+    - Stand up for the team as a whole and believe that the team dynamic is of utmost importance
     - Do not over architect
       - Things change once you start implementing and learn more through more detailed research
       - Break things down into smaller pieces and provide detailed todo list where possible
@@ -18,15 +18,15 @@
 
 
 ## Communicability
-      - Confident in coming up with solutions to hard problems
-      - I and try to come into conversations in good faith and feel it is important for everyone to
-      have their say and have often found that hard conversations to come out with solutions which turn out to beneficial to all involved.
-      - Backup my ideas with research without trying to solution everything off the cuff and prefer
-        to talk things out with the team to reach consensus
-      - I undertake responsibility to ensure
+      - Confident in coming up with solutions to hard problems and more than willing to put in the work to communicaate solutions that is palatable for business and fellow developers
+      - I try to come into conversations in good faith and feel it is important for everyone to have their say and have often found that hard conversations are needed in order for a team to go from from forming, storming into performing
+      - Things should be talked out as a team until the majority of the team reach consensus or in rare cases where the manager has to make a decision and as a team we should stick to that decision unless something comes up that questions the decision.
+      - I undertook the following responsibility:
+      - Lead by example:
+        - Work towards continous improvement through refactoring and new learnings.
+        - The only way I found the ability to at times make radical refactorings based on new knowledge has been completely down to excellent API and especially UI tests against each business requirement
       - Lead by example from a technical and personal point of view
-        - Each stack has been developed looking at best practice out there and coming up with even solutions
-        exemplified esp. React & Redux + Rematch
+        - Each stack has been developed looking at best practice out there and coming up with even solutions exemplified esp. React & Redux + Rematch
 
 
 ## Broad and deep technical knowledge
@@ -85,8 +85,14 @@
   - pub/sub
   - web hooks
   - Hierarchical models
-    - Closure Table
-  - Single Table Inheritance
+    - Eloquent PHP
+        - Adjacency List’ed Closure Table (https://github.com/franzose/ClosureTable) - Found to work well with STI and much faster
+        - Nested Sets (https://github.com/etrepat/baum) - Painful to re-order
+    - Active Record
+        - Materialised Path Pattern (https://github.com/stefankroes/ancestry)
+  - Single Table Inheritance models
+    - Eloquent PHP
+        -
   - Auditing
   - Testing Infrastructure
   - Approval System
@@ -117,11 +123,11 @@
 
 ## Architected the system from scratch
  - Intensively learnt from by the best Architect I have ever have the pleasure to meet
-   - Took on a high level archtectural role
+   - Took on a high level architectural role
      - How these new systems will interact with other subsystems
      - Came up with detailed designs and researched how others do it
      - Design was focused on providing the biggest bang for our buck and outlined potential improvements
-     - Designed in a way that makes intuiative and efficient
+     - Designed in a way that makes intuitive and efficient
      - Lead a team of developers on two separate projects
        - Time Off System
          - Time Off Policies need to be defined first
@@ -131,12 +137,13 @@
      - Reports & Dashboard widgets
      - Wired framed using moqups
      - Weekly one-one-one meetings with developers
-       - Built up a relationship and excellent repour
+       - Built up a relationship and excellent rapport
        - Mentored and offered help when asked
        - Always available
       - Came up with the full DB architecture in collaboration with the lead architect
         - Big focus on consistency and using the power of the database
           - Rollup tables to provide excellent summary information with the use of triggers
+
 ## Hobbies & Interests
     - Philosophy
       - Dale Carnegie (How to win friends and influence people)
