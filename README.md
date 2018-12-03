@@ -152,10 +152,11 @@
     - Cycling
     - Reading (J.R.R. Tolkein, Harry Potter series)
 
-[Me](Architecture.md)
+[What I have been up to](Architecture.md)
 
 [Software Development Projects](Software_Development_Projects.pdf)
 
 [Rails Testing Guide](Rails_Testing_Guide.pdf)
 
 [SOA Principles and Design](SOA_Principles_and_Design.pdf)
+[Scrum Notes](Scrum_Notes.pdf)
