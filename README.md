@@ -1,5 +1,7 @@
 ## Portfolio Highlights
 
+More than anything I try and setup myself and the team for success by using my extensive experience to come up with simple solutions to hard problems and develop systems that are highly testable and maintainable.
+
 # Software Development Architect
     - Highly Passionate Software Architect/Development Craftsman
     - High energy avid learner always in the pursuit of learning and creating best practices
