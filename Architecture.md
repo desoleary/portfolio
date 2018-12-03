@@ -1,6 +1,6 @@
 # Software Development Architect
 
-- Passionate Software Developer / Architect Craftsman
+- Passionate Software Architect/Developer Craftsman
 - High energy and an avid learner always looking for best practices
 - Extremely Hard working
 - Fully aware that while I know a lot there is always much more to learn and improve upon
@@ -91,7 +91,7 @@
   - Cisco Security Plaform (AMP for Endpoints formerly Sourcefire)
 
 ## Learnt the following technologies
-   - Each library and framework choosen has been fully researched and tried out practically
+   - Each library and framework chosen has been fully researched and tried out practically
      - I have at times worked with a framework for example a heiraracal
 
    - Laravel (PHP equivalent to Ruby on Rails)
