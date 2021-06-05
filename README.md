@@ -161,4 +161,7 @@ More than anything I try and setup myself and the team for success by using my e
 [Rails Testing Guide](Rails_Testing_Guide.pdf)
 
 [SOA Principles and Design](SOA_Principles_and_Design.pdf)
+
 [Scrum Notes](Scrum_Notes.pdf)
+
+[Behat & Laravel BDD Automation Framework](BDD_Behat_Laravel_Dusk_Automated_Framework.md)
